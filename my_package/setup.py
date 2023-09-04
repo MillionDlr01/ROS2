@@ -13,7 +13,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='Zane',
+    maintainer='Zane Metz',
     maintainer_email='metzza@cs.jmu.edu',
     description='Beginner client libraries tutorials practice package',
     license='Apache License 2.0',
